@@ -1,0 +1,5 @@
+Learning github commandline for the first project 
+git pull origin main
+git push orgin main
+git add .
+git commit -m "first commit code"
